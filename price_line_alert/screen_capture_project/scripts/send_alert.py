@@ -5,7 +5,7 @@ from email.mime.multipart import MIMEMultipart
 def send_email_alert(to_email, subject, message):
     from_email = "shresthvatsal@gmail.com"
     to_email = "vatsalshresth@gmail.com"
-    password = "aqzu hsox hdvw ipwg"  # Use App Password if you're using Gmail
+    password = "idpb nhfh zbjc zfvr"  # Use App Password if you're using Gmail
 
     msg = MIMEMultipart()
     msg["From"] = from_email
